@@ -6,7 +6,7 @@
 # extract sequence between start and stop sedquences in a FASTQ file 
 
 # Usage: path_to_script [FASTQ] [START_SEQ] [STOP_SEQ]
-#	FASTQ = the relative path from cwd .fastq.gz files for analysis
+#	FASTQ = the relative path from cwd to .fastq.gz file for analysis
 #	START_SEQ = string to start grabbing sequence from (excluded from output)
 #	STOP_SEQ = string to stop grabbing sequence after (excluded from output)
 #
