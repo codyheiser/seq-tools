@@ -4,7 +4,7 @@ seq_analysis.py
 @author: Cody Heiser
 
 
-usage: Heiser_7.py [-h] [--truncate] sequence
+usage: seq_analysis.py [-h] [--truncate] sequence
 
 Analyze a DNA sequence
 
